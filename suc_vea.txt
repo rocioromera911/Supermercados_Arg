@@ -1,0 +1,83 @@
+Sucursales y provincias Vea
+    "CORDOBA"
+ sucursales = [
+    "Vea Arguello",
+    "Vea Bell Ville",
+    "Vea Ciudad de Córdoba Av Armada Argentina",
+    "Vea Ciudad de Córdoba Av Colón y Zanni",
+    "Vea Ciudad de Córdoba Av Juan B Justo",
+    "Vea Ciudad de Córdoba Av Olmos",
+    "Vea Ciudad de Córdoba Av Sabattini",
+    "Vea Ciudad de Córdoba Barrio Ipona",
+    "Vea Ciudad de Córdoba Boulevard Chacabuco",
+    "Vea Ciudad de Córdoba Buchardo 1654",
+    "Vea Ciudad de Córdoba Ruta 20",
+    "Vea Marcos Juarez",
+    "Vea Rio IV Av Sabattini 2136",
+    "Vea Rio IV Banda Norte",
+    "Vea Rio IV Shopping",
+    "Vea Río Tercero",
+    "Vea San Francisco",
+    "Vea San Vicente",
+    "Vea Villa Maria",
+]
+Pagin
+    Almacen = 50
+    Bebidas= 31
+"TUCUMAN"
+sucursales_tucuman = [
+    "Vea Tucumán Av Alem",
+    "Vea Tucumán Av de las Américas",
+    "Vea Tucumán Av Gobernador del Campo",
+    "Vea Tucumán Av Mate de Luna",
+    "Vea Tucumán Av Roca",
+    "Vea Tucumán Av Sarmiento",
+    "Vea Tucumán Calle Provincia de Cordoba 649",
+    "Vea Tucumán Concepcion",
+    "Vea Tucumán J B Alberdi",
+    "Vea Tucumán Monteros",
+    "Vea Tucumán Terminal",
+    "Vea Tucumán Yerba Buena",
+]
+
+
+"MENDOZA"
+# Lista de sucursales de Mendoza basada en el contenido proporcionado
+sucursales_mendoza_ext = [
+    "Vea Mendoza Barrio Dalvian",
+    "Vea Mendoza Capital Paso de los Andes 82",
+    "Vea Mendoza Capital R Panamericana 2675",
+    "Vea Mendoza Capital Santiago del Estero 25",
+    "Vea Mendoza General Alvear",
+    "Vea Mendoza Godoy Cruz 3868",
+    "Vea Mendoza Godoy Cruz América 2780 y Chuquisaca",
+    "Vea Mendoza Godoy Cruz Av San Martin Sur 698",
+    "Vea Mendoza Godoy Cruz Paso de los Andes 850",
+    "Vea Mendoza Godoy Cruz Perito Moreno 1481",
+    "Vea Mendoza Godoy Cruz Sarmiento 998",
+    "Vea Mendoza Guaymallén Godoy Cruz 1150",
+    "Vea Mendoza Guaymallén Ignacio Molina",
+    "Vea Mendoza Guaymallén Lamadrid 300, Dorrego",
+    "Vea Mendoza Guaymallén Plaza Shopping",
+    "Vea Mendoza Guaymallén Tomás Godoy Cruz",
+    "Vea Mendoza Jorge A",
+    "Vea Mendoza Jorge A. Calle 897",
+    "Vea Mendoza La Barraca Mall",
+    "Vea Mendoza Las Heras Independencia y Chacabuco",
+    "Vea Mendoza Las Heras Lisandro Moyano 302",
+    "Vea Mendoza Las Heras San Miguel 1650",
+    "Vea Mendoza Lavalle 942 Rivadavia",
+    "Vea Mendoza Luján de Cuyo",
+    "Vea Mendoza Maipú",
+    "Vea Mendoza Maipu Urquiza 3620",
+    "Vea Mendoza Malargue",
+    "Vea Mendoza Patricias Mendocinas 1730",
+    "Vea Mendoza Rodeo de la Cruz",
+    "Vea Mendoza San Carlos",
+    "Vea Mendoza San Lorenzo y 9 de Julio",
+    "Vea Mendoza San Rafael",
+    "Vea Mendoza San Rafael Av Libertador 755",
+    "Vea Mendoza San Rafael Bartolome Mitre 890",
+    "Vea Mendoza Trapero Sosa 15",
+    "Vea Mendoza Tunuyán",
+    "Vea Mendoza Tupungato",
